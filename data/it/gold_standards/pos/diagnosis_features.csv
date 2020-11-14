@@ -1,0 +1,17 @@
+"first_group","second_group","source"
+"gastroenterologia","gastroscopia",NULL
+"gastroscopia","endoscopia",NULL
+"gastroscopia","esofago",NULL
+"gastroscopia","esofagogastroduodenoscopia",NULL
+"gastroscopia","referto",NULL
+"manometria","alta risoluzione",NULL
+"manometria","naso",NULL
+"manometria","peristalsi",NULL
+"manometria","pressione",NULL
+"ph-metria","esame",NULL
+"ph-metria","manometria",NULL
+"radiografia","contrasto",NULL
+"scintigrafia","radiografia",NULL
+"sondino","naso",NULL
+"transito","bario",NULL
+"transito","radiografia",NULL

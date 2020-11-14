@@ -1,0 +1,23 @@
+"first_group","second_group","source"
+"acido","bruciore",NULL
+"acido","succhi stomaco",NULL
+"bruciore","retrosternale retrosternali",NULL
+"cefalea","vertigine",NULL
+"disfagia","deglutizione",NULL
+"dolore","pasto",NULL
+"dolore","retrosternale",NULL
+"dolore","spasmi",NULL
+"esofago","dilatato",NULL
+"esofago","dilatato",NULL
+"esofago","mega",NULL
+"esofago","megaesofago",NULL
+"esofago","motilita",NULL
+"lentamente bloccato","gola",NULL
+"muscolo","motilita",NULL
+"nervoso","rabbia",NULL
+"pasto","bloccato",NULL
+"pasto","risale",NULL
+"peso","perso",NULL
+"rigurgito","bolo",NULL
+"rigurgito","deglutizione",NULL
+"soffocare","sterno respiro",NULL

@@ -1,0 +1,22 @@
+"first_group","second_group","source"
+"aorta","infiammazione",NULL
+"esofago","disfagia",NULL
+"esofago","diverticolo",NULL
+"esofago","esofagite",NULL
+"esofago","infiammazione","Di Ciaula A, Wang DQ, Molina-Molina E, Lunardi Baccetto R, Calamita G, Palmieri VO, Portincasa P. Bile Acids and Cancer: Direct and Environmental-Dependent Effects. Ann Hepatol. 2017 Nov;16(Suppl. 1: s3-105.):s87-s105. doi: 10.5604/01.3001.0010.5501."
+"esofago","neurodegenerativo neurodegenerativa","Zimmer V, Vanderwinden JM, Zimmer A, Ostertag D, Strittmatter M, Koehler K, Huebner A, Lammert F. Organ-specific Neurodegeneration in Triple A syndrome-related Achalasia. Am J Med. 2015 Sep;128(9):e9-12. doi: 10.1016/j.amjmed.2015.04.025."
+"gola","bruciore",NULL
+"intestino","stitichezza",NULL
+"intestino","virus",NULL
+"mandibola","dolore",NULL
+"mandibola","infarto",NULL
+"mascella","dolore",NULL
+"mascella","infarto",NULL
+"nervi nervo","nervoso",NULL
+"nervo","infiammazione",NULL
+"petto","spasmi",NULL
+"stomaco","bruciore",NULL
+"stomaco","ernia",NULL
+"stomaco","gastrite",NULL
+"stomaco","micosi",NULL
+"stomaco","pressione",NULL

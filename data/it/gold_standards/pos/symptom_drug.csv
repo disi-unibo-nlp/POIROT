@@ -1,0 +1,27 @@
+"first_group","second_group","source"
+"acidita","antiacido",NULL
+"acido acidita","pantoprazolo",NULL
+"bruciore bruciori stomaco","gaviscon",NULL
+"bruciore","inibitore della pompa protonica",NULL
+"bruciore","pantoprazolo",NULL
+"disfagia","miorilassante",NULL
+"dolore","analgesici",NULL
+"dolore","antidolorifico",NULL
+"dolore","contramal",NULL
+"dolore","ketorolac",NULL
+"dolore","paracetamolo",NULL
+"dolore","tachidol",NULL
+"gastrite","ranitidina",NULL
+"pirosi","pantoprazolo",NULL
+"reflusso","antiacido",NULL
+"reflusso","esomeprazolo","Qi Q, Wang R, Liu L, Zhao F, Wang S. Comparative effectiveness and tolerability of esomeprazole and omeprazole in gastro-esophageal reflux disease: A systematic review and meta-analysis. Int J Clin Pharmacol Ther. 2015 Oct;53(10):803-10. doi: 10.5414/CP202396."
+"reflusso","inibitore della pompa protonica",NULL
+"reflusso","lansoprazolo","Çelebi A, Aydın D, Kocaman O, Konduk BT, Şentürk Ö, Hülagü S. Comparison of the effects of esomeprazole 40 mg, rabeprazole 20 mg, lansoprazole 30 mg, and pantoprazole 40 mg on intragastrıc pH in extensive metabolizer patients with gastroesophageal reflux disease. Turk J Gastroenterol. 2016 Sep;27(5):408-414. doi: 10.5152/tjg.2016.15514."
+"reflusso","lansox",NULL
+"reflusso","lucen",NULL
+"reflusso","maalox",NULL
+"reflusso","pantoprazolo",NULL
+"reflusso","plasil",NULL
+"reflusso","ranitidina","Shakeri A, Hashempur MH, Mojibian M, Aliasl F, Bioos S, Nejatbakhsh F. A comparative study of ranitidine and quince (Cydonia oblonga mill) sauce on gastroesophageal reflux disease (GERD) in pregnancy: a randomised, open-label, active-controlled clinical trial. J Obstet Gynaecol. 2018 Oct;38(7):899-905. doi: 10.1080/01443615.2018.1431210."
+"reflusso","riopan",NULL
+"spasmi stomaco dolore","buscopan",NULL
