@@ -10,5 +10,5 @@ Source code and dataset for "Phenomena Explanation from Text: Unsupervised Learn
 - KDIR 2020, [Unsupervised Descriptive Text Mining for Knowledge Graph Learning](https://www.scitepress.org/PublicationsDetail.aspx?ID=3mrzEAn57Cc=&t=1).
 
 ## Contacts
-Please contact Giacomo Frisoni (`giacomo.frisoni@unibo.it`).</br>
+Please contact Giacomo Frisoni (`giacomo.frisoni@unibo.it`) or Gianluca Moro (`gianluca.moro@unibo.it`).</br>
 For help or issues using POIROT, please submit a GitHub issue.
