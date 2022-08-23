@@ -9,6 +9,9 @@ Source code and dataset for ["Phenomena Explanation from Text: Unsupervised Lear
 - DATA 2020, [Learning Interpretable and Statistically Significant Knowledge from Unlabeled Corpora of Social Text Messages: A Novel Methodology of Descriptive Text Mining](https://www.scitepress.org/PublicationsDetail.aspx?ID=c10WqNt1NgM=&t=1). Best Paper Award.
 - KDIR 2020, [Unsupervised Descriptive Text Mining for Knowledge Graph Learning](https://www.scitepress.org/PublicationsDetail.aspx?ID=3mrzEAn57Cc=&t=1).
 
+## Replicability
+All the instructions to fully replicate the results reported in our papers are in the notebook `POIROT.ipynb`.
+
 ## Contacts
-Please contact Giacomo Frisoni (`giacomo.frisoni@unibo.it`) or Gianluca Moro (`gianluca.moro@unibo.it`).</br>
-For help or issues using POIROT, please submit a GitHub issue.
+Please contact Giacomo Frisoni (`giacomo.frisoni[at]unibo.it`) or Gianluca Moro (`gianluca.moro[at]unibo.it`).</br>
+For help or issues using POIROT, please write to us.
